@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 cesium-request-cache.sqlite
 cesium-request-cache.sqlite-wal
+cesium-request-cache.sqlite-shm
